@@ -10,8 +10,8 @@ This analysis looks at drivers, number of rides, number of drivers, average fare
 
 ### How the Analysis was Conducted
 #### Data
-This analysis was conducted based off the data provided in two files. The first file is the [city_data.csv] ("Resources/city_ride.csv") file which shows the city, the driver count for each city and the city type.
-The second file is the [ride_data.csv] ("Resources/ride_data.csv") file which shows the city, date of the ride, the fare for that ride and the ride ID. Both files span the period from 1 Jan 2019 through 5 May 2019. Note the range of analysis is from 1 Jan 2019 through 29 April 2019.
+This analysis was conducted based off the data provided in two files. The first file is the [city_data.csv](Resources/city_data.csv) file which shows the city, the driver count for each city and the city type.
+The second file is the [ride_data.csv](Resources/ride_data.csv) file which shows the city, date of the ride, the fare for that ride and the ride ID. Both files span the period from 1 Jan 2019 through 5 May 2019. Note the range of analysis is from 1 Jan 2019 through 29 April 2019.
 
 #### Steps Conducted
 1. After some plotting practice the files were reviewed to make sure the data did not need to be cleaned, which it did not, both files were merged on city to get a combined view data frame.
@@ -25,7 +25,7 @@ Python was used within the Jupyter development environment. The Pandas, Matplotl
 ### Results
 The results are based on the below summary statististics and graph.
 #### Summary Statistics
-In looking at the summary statistics shown in table 1 ![] ("analysis/PyBer_summary_statistics.png)
+In looking at the summary statistics shown in table 1 ![](analysis/PyBer_summary_statistics.png)
 
 Table 1.
 
@@ -36,11 +36,16 @@ Looking deeper into this, the rural city type had the largest differnce bewteen 
 with the urban city type being the only type to have a higher avergae fare per ride then the average fare per driver. 
 
 #### Total Fare by City Type Graph
-This graph shows the fares in U.S. dollars for each fare  based on city type per week for the time frame of the data. Looking at it one can see a number of items of interest:
-1. The difference in fares follows the sumamry statistices. The total urban fares are the largest. the average is $2,037 dollars per week. The suburban average is $990 per week and the rural average fare for the week is $208.
-2. The fares for all three city types follow the same pattern thorugh most of March. At the begining of April there is a significant dip for both the urban and suburban city types but not the rural city type.
-This is born out in that the standard deviation for the rural fare by week is 88.65. Compare this to the standard devitation for the suburban city type, 256.9 and 422.32 for the urban city type. The rural city type has the lowest standard deviation.
-3. This inconsistency between the rural city type and the suburban and urban city types does not appear in late February. All three city types spiked fairly consistently.
+Looking at Figure 1,
+
+![](./analysis/PyBer_fare_summary.png)
+
+Figure 1
+
+this graph shows the fares in U.S. dollars for each fare  based on city type per week for the time frame of the data. Looking at it one can see a number of items of interest:
+1. The difference in fares follows the sumamry statistices ![](analysis/PyBer_other_statistics.png). The total urban fares are the largest. the average is $2,078 dollars per week. The suburban average is $1002.8 per week and the rural average fare for the week is $221.
+2. The fares for all three city types follow the same pattern thorugh most of March. there is a spike for all three city types in March. After March the variation does not seem correlated until the end of April where all three city types drop.
+Additionally the standard deviation for the rural fare by week is 116. Compare this to the standard devitation for the suburban city type, 275.8 and 480 for the urban city type. The rural city type has the lowest standard deviation.
 
 ### Summary and Recommendations
 Keeping acccess and affordability in mind, the following recommendations and areas of further study are provided.
@@ -48,7 +53,6 @@ Keeping acccess and affordability in mind, the following recommendations and are
  a. conduct further analysis on rural cities to see if this is consistent across all rural cities.
  b. work to increase the number of drivers in the rural area.
 Though the rurual city type is the least profitable, this could bring the average fare per ride down as well as increase rides, and hopefully profit, in the steadiest area of the thre.
-2. Find out what caused the dip at the begining of April that affected the urban and suburban city types but not the rural city type. The hope is that this is controllable, at least to a degree.
-3. Find out what caused the spike in late February. Again, if this is controllable we could promote this.
-4. Further sensitivity analysis to compare driver saturation verses average fare per ride should be conducted to find the maximum quantity of drivers we should target in each of the three city types.
+2. Find out what caused the spike in late February. If this is controllable we could promote this.
+3. Further sensitivity analysis to compare driver saturation verses average fare per ride should be conducted to find the maximum quantity of drivers we should target in each of the three city types.
 
