@@ -43,7 +43,13 @@ Looking at Figure 1,
 Figure 1
 
 this graph shows the fares in U.S. dollars for each fare  based on city type per week for the time frame of the data. Looking at it one can see a number of items of interest:
-1. The difference in fares follows the sumamry statistices ![](analysis/PyBer_other_statistics.png). The total urban fares are the largest. the average is $2,078 dollars per week. The suburban average is $1002.8 per week and the rural average fare for the week is $221.
+1. The difference in fares follows these summary statistices. Seet Table 2
+
+![](analysis/PyBer_other_statistics.png).
+
+Table 2.
+
+The total urban fares are the largest. the average is $2,078 dollars per week. The suburban average is $1002.8 per week and the rural average fare for the week is $221.
 2. The fares for all three city types follow the same pattern thorugh most of March. there is a spike for all three city types in March. After March the variation does not seem correlated until the end of April where all three city types drop.
 Additionally the standard deviation for the rural fare by week is 116. Compare this to the standard devitation for the suburban city type, 275.8 and 480 for the urban city type. The rural city type has the lowest standard deviation.
 
