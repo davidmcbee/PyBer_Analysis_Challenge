@@ -65,9 +65,9 @@ Additionally the standard deviation for the rural fare by week is 116. Compare t
 Keeping acccess and affordability in mind, the following recommendations and areas of further study are provided.
 1. given the largest average fare per driver, and the largest difference between average fare per ride as compared to average fare per driver is in the rural area, we might want to do two things:
 
-a. conduct further analysis on rural cities to see if this is consistent across all rural cities.
+  a. conduct further analysis on rural cities to see if this is consistent across all rural cities.
 
-b. work to increase the number of drivers in the rural area.
+  b. work to increase the number of drivers in the rural area.
 
 1. Though the rurual city type is the least profitable, this could bring the average fare per ride down as well as increase rides, and hopefully profit, in the steadiest area of the thre.
 
