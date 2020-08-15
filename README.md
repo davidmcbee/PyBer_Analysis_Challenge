@@ -69,13 +69,13 @@ Keeping acccess and affordability in mind, the following recommendations and are
 
   b. work to increase the number of drivers in the rural area.
 
-1. Though the rurual city type is the least profitable, this could bring the average fare per ride down as well as increase rides, and hopefully profit, in the steadiest area of the thre.
+2. Though the rurual city type is the least profitable, this could bring the average fare per ride down as well as increase rides, and hopefully profit, in the steadiest area of the thre.
 
-2. Find out what caused the spike in late February. If this is controllable we could promote this.
+3. Find out what caused the spike in late February. If this is controllable we could promote this.
 
-3. Further sensitivity analysis to compare driver saturation verses average fare per ride should be conducted to find the maximum quantity of drivers we should target in each of the three city types.
+4. Further sensitivity analysis to compare driver saturation verses average fare per ride should be conducted to find the maximum quantity of drivers we should target in each of the three city types.
 
-4. work to increase the rides in the urban areas. It appears the driver count is sufficent. Agian, keeping access and affordability for underserved neighborhoods in mind, additional in-city analysis could point out the areas to target more rides.
+5. work to increase the rides in the urban areas. It appears the driver count is sufficent. Agian, keeping access and affordability for underserved neighborhoods in mind, additional in-city analysis could point out the areas to target more rides.
 
-5. For the Suburban city types, the question becomes whether those areas would benefit from more drivers, more marketing to increase rides, or a combination of both. I recommend picking two suburban areas and
+6. For the Suburban city types, the question becomes whether those areas would benefit from more drivers, more marketing to increase rides, or a combination of both. I recommend picking two suburban areas and
 try more drivers in one and more markieting to increase rides in the other. The data gained from this would be helpful to determine the correct balance.
