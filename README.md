@@ -64,13 +64,18 @@ Additionally the standard deviation for the rural fare by week is 116. Compare t
 ### Summary and Recommendations
 Keeping acccess and affordability in mind, the following recommendations and areas of further study are provided.
 1. given the largest average fare per driver, and the largest difference between average fare per ride as compared to average fare per driver is in the rural area, we might want to do two things:
+
 a. conduct further analysis on rural cities to see if this is consistent across all rural cities.
+
 b. work to increase the number of drivers in the rural area.
 
 1. Though the rurual city type is the least profitable, this could bring the average fare per ride down as well as increase rides, and hopefully profit, in the steadiest area of the thre.
 
 2. Find out what caused the spike in late February. If this is controllable we could promote this.
+
 3. Further sensitivity analysis to compare driver saturation verses average fare per ride should be conducted to find the maximum quantity of drivers we should target in each of the three city types.
+
 4. work to increase the rides in the urban areas. It appears the driver count is sufficent. Agian, keeping access and affordability for underserved neighborhoods in mind, additional in-city analysis could point out the areas to target more rides.
+
 5. For the Suburban city types, the question becomes whether those areas would benefit from more drivers, more marketing to increase rides, or a combination of both. I recommend picking two suburban areas and
 try more drivers in one and more markieting to increase rides in the other. The data gained from this would be helpful to determine the correct balance.
